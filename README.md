@@ -1,2 +1,2 @@
 # bc-wildfire-explorer
-Interactive GIS dashboard exploring historical wildfire patterns, fire causes, and area burned across British Columbia using government wildfire data.
+An interactive dashboard exploring historical wildfire patterns across British Columbia using publicly available wildfire data. It provides an interactive map of wildfire perimeters, annual fire statistics, and information on wildfire causes.
